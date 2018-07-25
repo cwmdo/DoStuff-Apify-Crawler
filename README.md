@@ -1,6 +1,6 @@
 # DoStuff-Apify-Crawler
 
-[Apify](apify.com) pagefunction to crawl the most popular entries of the day from the DoStuff network (provides locally curated events in your area, such as [do512](http://do512.com) for Austin, TX).
+[Apify](http://apify.com) pagefunction to crawl the most popular entries of the day from the DoStuff network (provides locally curated events in your area, such as [do512](http://do512.com) for Austin, TX).
 
 ## Example output
 ```
